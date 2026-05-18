@@ -1,0 +1,5 @@
+dist/
+*.deb
+*.rpm
+*.pkg.tar.zst
+*.AppImage

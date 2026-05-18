@@ -2,6 +2,8 @@
 
 Unofficial Ubuntu and Debian packaging repository for Codex Desktop on Linux.
 
+中文说明见 [README.zh-CN.md](README.zh-CN.md).
+
 This project does not build Codex Desktop from original source code. It repackages the official upstream macOS `Codex.dmg` into a Linux-compatible Electron app and then publishes a native `.deb` package for Ubuntu-class systems.
 
 ## Status

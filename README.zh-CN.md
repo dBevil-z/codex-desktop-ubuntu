@@ -83,7 +83,7 @@ make deb
 - 上游 Linux 适配仓库提交：`39da63072705e5f9330e6a5509626b320e7b8a1c`（短 SHA：`39da630`）
 - 上游 `Codex.dmg` 最后修改时间：`2026-05-16 02:26:28 UTC`
 - Electron 运行时版本：`42.0.1`
-- 安装包文件名：`codex-desktop_2026.05.18.072740_amd64.deb`
+- 安装包文件名：`codex-desktop_2026.xxx_amd64.deb`
 - 安装包大小：`242M`（`253,224,686` bytes）
 - SHA256：`a643958136e74f769003912aabfb7ccf5d8693cfb32b958ed091dfd620127328`
 
@@ -93,13 +93,13 @@ make deb
 
 每次发布建议至少上传：
 
-1. `codex-desktop_2026.05.18.072740_amd64.deb`
+1. `codex-desktop_2026.xxx_amd64.deb`
 2. `SHA256SUMS`
 
 用户可使用以下命令安装：
 
 ```bash
-sudo apt install ./codex-desktop_2026.05.18.072740_amd64.deb
+sudo apt install ./codex-desktop_2026.xxx_amd64.deb
 ```
 
 ## 注意事项

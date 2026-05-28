@@ -85,7 +85,7 @@ This section is updated per package release.
 - Source repository commit: `39da63072705e5f9330e6a5509626b320e7b8a1c` (`39da630`)
 - Upstream DMG last-modified: `2026-05-16 02:26:28 UTC`
 - Electron runtime version: `42.0.1`
-- Package filename: `codex-desktop_2026.05.18.072740_amd64.deb`
+- Package filename: `codex-desktop_2026.xxx_amd64.deb`
 - Package size: `242M` (`253,224,686` bytes)
 - SHA256: `a643958136e74f769003912aabfb7ccf5d8693cfb32b958ed091dfd620127328`
 
@@ -95,13 +95,13 @@ The built `.deb` should be attached to the corresponding GitHub Release for this
 
 For each GitHub release, upload:
 
-1. `codex-desktop_2026.05.18.072740_amd64.deb`
+1. `codex-desktop_2026.xxx_amd64.deb`
 2. `SHA256SUMS`
 
 Users can then install with:
 
 ```bash
-sudo apt install ./codex-desktop_2026.05.18.072740_amd64.deb
+sudo apt install ./codex-desktop_2026.xxx_amd64.deb
 ```
 
 ## Notes And Caveats

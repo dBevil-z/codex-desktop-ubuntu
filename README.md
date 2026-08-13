@@ -1,5 +1,10 @@
 # codex-desktop-ubuntu
 
+OpenAI has now published an official Linux version of Codex Desktop:
+- English: [https://chatgpt.com/codex/](https://chatgpt.com/codex/)
+- Simplified Chinese: [https://chatgpt.com/zh-Hans-CN/codex/](https://chatgpt.com/zh-Hans-CN/codex/)
+
+
 Unofficial Ubuntu and Debian packaging repository for Codex Desktop on Linux.
 
 中文说明见 [README.zh-CN.md](README.zh-CN.md).

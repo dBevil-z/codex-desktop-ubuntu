@@ -1,5 +1,10 @@
 # codex-desktop-ubuntu
 
+OpenAI 现已发布官方 Linux 版 Codex Desktop：
+- 英文版：<https://chatgpt.com/codex/>
+- 中文版：<https://chatgpt.com/zh-Hans-CN/codex/>
+
+
 这是一个面向 Ubuntu / Debian 系 Linux 发行版的非官方 Codex Desktop 打包发布仓库。
 
 这个仓库并不是从 Codex Desktop 的原始源码直接编译应用，而是将官方发布的 macOS `Codex.dmg` 重新适配为 Linux 可运行的 Electron 应用，再进一步封装为适用于 Ubuntu / Debian 系统的 `.deb` 安装包。
